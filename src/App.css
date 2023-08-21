@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.card{
+  background: #c3adad;
+  border: 3px dotted rgb(3, 89, 3);
+  font-size: 20px;
+  border-radius: 25px;
+  /* font-family:; */
+  
+}
